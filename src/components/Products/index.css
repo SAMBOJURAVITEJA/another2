@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+img {
+  width: 100px;
+}
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container-product-cart {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
